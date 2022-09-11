@@ -1,2 +1,2 @@
-# java-projetos-exercicios
+# Java Exercícios
 Repositório destinado para exercícios realizados durante aprendizado.
