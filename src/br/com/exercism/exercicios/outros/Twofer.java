@@ -1,0 +1,13 @@
+package br.com.exercism.exercicios.outros;
+
+public class Twofer {
+
+    public String twofer(String name) {
+        if (name != null){
+            return "One for " + name + ", one for me.";
+        }
+        return "One for you, one for me.";
+    }
+
+}
+
