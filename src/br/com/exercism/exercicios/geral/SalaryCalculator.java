@@ -1,4 +1,4 @@
-package br.com.exercism.exercicios.outros;
+package br.com.exercism.exercicios.geral;
 
 public class SalaryCalculator {
 
