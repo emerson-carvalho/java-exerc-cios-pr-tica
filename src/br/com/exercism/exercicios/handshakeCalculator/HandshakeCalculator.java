@@ -1,4 +1,4 @@
-package br.com.exercism.exercicios.geral;
+package br.com.exercism.exercicios.handshakeCalculator;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -40,6 +40,3 @@ public class HandshakeCalculator {
     }
 }
 
-enum Signal {
-    WINK, DOUBLE_BLINK, CLOSE_YOUR_EYES, JUMP;
-}
